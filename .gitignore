@@ -46,10 +46,10 @@
 # VS / VS Code
 .vs/
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
 
 *.csproj.user
 *.sln.docstates
@@ -81,6 +81,10 @@ Thumbs.db
 
 # Crashlytics
 crashlytics-build.properties
+
+# Unity temporary files
+*.utmp
+**/*.utmp
 
 # Oculus / OpenXR (optional)
 **/Assets/Oculus/

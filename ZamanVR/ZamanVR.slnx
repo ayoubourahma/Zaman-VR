@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="OccaSoftware.SuperSimpleSkybox.Runtime.csproj" />
+  <Project Path="OccaSoftware.SuperSimpleSkybox.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="OccaSoftware.SuperSimpleSkybox.Demo.csproj" />
+</Solution>
