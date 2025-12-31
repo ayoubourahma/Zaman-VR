@@ -51,6 +51,7 @@
     <Compile Include="Assets\Zaman VR\Scripts\BoatWaypointFollower.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\HandLocomotion.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\BoatRider.cs" />
+    <Compile Include="Assets\Zaman VR\Scripts\VRTunnelingController.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\CanvasFollowCamera.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\CharacterDialogue.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\BillboardFaceCamera.cs" />
