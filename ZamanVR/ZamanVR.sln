@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.SuperSimpleSkybox.Runtime", "OccaSoftware.SuperSimpleSkybox.Runtime.csproj", "{4E4B66E7-D5F0-8E02-D47C-CC5CBDE560F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.SuperSimpleSkybox.Editor", "OccaSoftware.SuperSimpleSkybox.Editor.csproj", "{63FEACAD-D85E-702C-E238-3D2D4EABABE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2F01B807-517B-9BFC-0DD2-923740F54871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.SuperSimpleSkybox.Demo", "OccaSoftware.SuperSimpleSkybox.Demo.csproj", "{B7516A04-320B-6946-7925-9C7C31804820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4B66E7-D5F0-8E02-D47C-CC5CBDE560F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4B66E7-D5F0-8E02-D47C-CC5CBDE560F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4B66E7-D5F0-8E02-D47C-CC5CBDE560F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4B66E7-D5F0-8E02-D47C-CC5CBDE560F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FEACAD-D85E-702C-E238-3D2D4EABABE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FEACAD-D85E-702C-E238-3D2D4EABABE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FEACAD-D85E-702C-E238-3D2D4EABABE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FEACAD-D85E-702C-E238-3D2D4EABABE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F01B807-517B-9BFC-0DD2-923740F54871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F01B807-517B-9BFC-0DD2-923740F54871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F01B807-517B-9BFC-0DD2-923740F54871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F01B807-517B-9BFC-0DD2-923740F54871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7516A04-320B-6946-7925-9C7C31804820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7516A04-320B-6946-7925-9C7C31804820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7516A04-320B-6946-7925-9C7C31804820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7516A04-320B-6946-7925-9C7C31804820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
