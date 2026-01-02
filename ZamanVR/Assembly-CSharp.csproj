@@ -49,42 +49,69 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Zaman VR\Scripts\BoatWaypointFollower.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\NatureManufacture Wind\NM_Wind.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\HandLocomotion.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\BoatRider.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\VRTunnelingController.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\CanvasFollowCamera.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Orb\FuelOrb.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\3rd Party Assets\Smoke Mist\Runtime\GrassBender.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\CharacterDialogue.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\BillboardFaceCamera.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\TextSequence.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Prototype\Camera.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\QuizManager.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\FeedBack\PowerUpPickupFX.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Prototype\RocketController.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\FeedBack\CollisionParticlePlayer.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Slider\FuelSliderTest.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Take Off Land\TakeOffLandDetection.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire\Scripts\changeEffects.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\DialogueManager.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\PlayerMoney.cs" />
     <Compile Include="Assets\Zaman VR\Scripts\FixedVRHeight.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Collecting\RocketShieldController.cs" />
+    <Compile Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\VFX Setting\Scripts\Orb\BigFuelBubbleConsumption.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\Particle Shaders\NM_Particles_Smoke_Lightmap_Unlit.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire\Shaders\Explosion.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\3rd Party Assets\Smoke Mist\Shaders\Bending\GrassBendMesh.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\Particle Shaders\NM_Particles_Lava_Emissive.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Smoke\Free Fire VFX URP\Shaders\SH_Vefects_VFX_URP_Heat_Haze_01.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Smoke\Free Fire VFX URP\Shaders\SH_Vefects_VFX_URP_Particles_Erosion_01.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\Particle Shaders\NM_Particles_Fire_Unlit.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\HD and URP Support Packs Smoke and Fire\Readme about rendering piplines support.txt" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\3rd Party Assets\Smoke Mist\Shaders\Bending\Common.hlsl" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Smoke\Free Fire VFX URP\Shaders\SH_Vefects_VFX_URP_Fire_Flames_01.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\Particle Shaders\NM_Particles_Smoke_Normalmap_Unlit.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\Particle Shaders\NM_Particles_Smoke_Normalmap_Lit.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\Particle Shaders\NM_Particles_Smoke_Lightmap_Lit.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire\Environment\Environment.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\Zaman VR\3rd Party Assets\War VFX\Settings\Fire Smoke\HD and URP Support Packs Smoke and Fire\README 17 HD RP Import.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
